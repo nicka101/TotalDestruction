@@ -1,0 +1,23 @@
+TotalDestruction
+================
+
+Fun Plugin to cause block decay
+THERE'S NOTHING ELSE TO READ.
+
+
+WHY ARE YOU STILL READING?
+
+
+
+
+GO BACK TO NOT READING?
+
+
+
+SERIOUSLY WHY ARE YOU STILL READING?
+
+
+
+
+
+YOU JUST WASTED YOUR LIFE? HUEHUEHUEHUE

@@ -1,0 +1,6 @@
+name: TotalDestruction
+main: com.nicka101.TotalDestruction.TotalDestruction
+version: 1.0
+description: >
+             Makes Shit Happen
+commands:
