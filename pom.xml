@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.nicka101</groupId>
   <artifactId>TotalDestruction</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.1.2-ALPHA</version>
   <name>TotalDestruction</name>
   <repositories>
 	<!-- Bukkit can be found at the following repository -->
